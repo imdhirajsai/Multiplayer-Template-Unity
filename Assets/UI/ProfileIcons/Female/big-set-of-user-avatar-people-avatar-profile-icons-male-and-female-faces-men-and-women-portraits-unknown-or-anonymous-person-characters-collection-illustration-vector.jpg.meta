@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: ac02dc78ac1b3a94aa52d173c5a873fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 151
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc843086be3320b439333acf62dd04b1
+      internalID: 2127467065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 151
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133ebad7449550947a689b1dceb42a92
+      internalID: 200335030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 151
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1daa47dfd08f2049a6cb565ce2775f9
+      internalID: 1390674973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 151
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ba6c4109841e45aa73f1d204f3689
+      internalID: -1325491244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 151
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657bca263fe88843afa1c57f8f8ca3e
+      internalID: 267257357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 151
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0520fd08fcab4ea4b8f281ad49517
+      internalID: 1735499517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1980122d2268abd40874b6d1984fa0e8
+      internalID: 68874846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedc59ceb960f674fbeeb8f345d6b4f6
+      internalID: 1005871599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7030cd6e75ad73744a5dba3c9d6b1a00
+      internalID: -839802751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d005622a23c0c944fa5f09ecf8483780
+      internalID: 1629431103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86114b56440ec2949b6353d1f1c9563f
+      internalID: -911043714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688121eadc5e844e97a293ee20c4a96
+      internalID: 392550630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b24cda3d31dbdda4bb200c12dad2a4f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_0: 2127467065
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_1: 200335030
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_10: -911043714
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_11: 392550630
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_2: 1390674973
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_3: -1325491244
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_4: 267257357
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_5: 1735499517
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_6: 68874846
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_7: 1005871599
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_8: -839802751
+      big-set-of-user-avatar-people-avatar-profile-icons-male-and-female-faces-men-and-women-portraits-unknown-or-anonymous-person-characters-collection-illustration-vector_9: 1629431103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
